@@ -1,3 +1,3 @@
-# about images_segmentation.cpp
+# images_segmentation.cpp
 
-include 
+* ws
