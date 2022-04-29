@@ -1,3 +1,9 @@
 # images_segmentation.cpp
 
-* ws
+* Global threshold
+* QTUS
+* Kmeans
+* Conv2d
+* Roberts
+* Sobel
+* Laplacian
