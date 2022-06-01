@@ -25,7 +25,7 @@
 
 6. 如果有任何问题，可以发起 **issue** 。
 
-
+---
 
 1. Download this folder.
 
