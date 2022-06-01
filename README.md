@@ -1,6 +1,6 @@
 # 本科数字图像处理作业
 
-## images_segmentation.cpp
+## imagesSegmentation.cpp
 
 * Global threshold
 * QTUS
@@ -10,7 +10,7 @@
 * Sobel
 * Laplacian
 
-## images_process.py
+## imagesProcess.py
 
 * Spatial smoothing and sharpen
 * Time smoothing and sharpen
