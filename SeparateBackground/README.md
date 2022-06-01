@@ -41,7 +41,9 @@
 
 # Result
 
-![edwe](result.png)
+This only use 2000 images to train.
+
+![](result.png)
 
 # Understand
 
