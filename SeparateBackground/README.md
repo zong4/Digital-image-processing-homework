@@ -21,6 +21,8 @@
 
 保险起见，可以先去 **./py_path/dataset.py** 修改相关路径。
 
+同时为了获得更好的效果，可以调用 **GPU** 训练，以及在 **config.py** 中增加训练图片的数量（也可以使用自己的）。
+
 如果有任何问题，可以发起 **issue** 。
 
 Download this folder.
@@ -30,6 +32,8 @@ Download [the dataset](https://pan.baidu.com/union/challenge/dataset?competition
 Run **train.py** and then run **test.py**.
 
 To be on the safe side, modify the relevant path in **./py_path/dataset.py** firstly.
+
+Also, for better results, you can call the **GPU** training and increase the number of training images in **config.py** (or use your own).
 
 If you have any questions, you can open **issue** .
 
