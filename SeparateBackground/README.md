@@ -13,9 +13,9 @@
 
 # Run
 
-1.下载该文件夹。
+1. 下载该文件夹。
 
-将[数据集](https://pan.baidu.com/union/challenge/dataset?competition_id=3&code=1715396826)下载至 **dataset_path** 并解压。
+2. 将[数据集](https://pan.baidu.com/union/challenge/dataset?competition_id=3&code=1715396826)下载至 **dataset_path** 并解压。
 
 先运行 **train.py** ，再运行 **test.py** 。
 
