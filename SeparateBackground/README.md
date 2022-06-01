@@ -13,6 +13,22 @@
 
 # Run
 
+下载该文件夹。
 
+将数据集下载至 **dataset_path** 并解压。
 
-下载文件夹后运行
+先运行 **train.py** ，再运行 **test.py** 。
+
+保险起见，可以先去 **./py_path/dataset.py** 修改相关路径。
+
+如果有任何问题，可以发起 **issue** 。
+
+Download this folder.
+
+Download the dataset to **dataset_path** and unzip it.
+
+Run **train.py** and then run **test.py**.
+
+To be on the safe side, modify the relevant path in **./py_path/dataset.py** firstly.
+
+If you have any questions, you can open **issue** .
