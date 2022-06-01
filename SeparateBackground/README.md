@@ -32,3 +32,9 @@ Run **train.py** and then run **test.py**.
 To be on the safe side, modify the relevant path in **./py_path/dataset.py** firstly.
 
 If you have any questions, you can open **issue** .
+
+# Understand
+
+可以看看 **reportWord.docx** 。
+
+You can read [this paper](https://arxiv.org/abs/2108.07009)。
