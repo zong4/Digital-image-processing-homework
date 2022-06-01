@@ -39,6 +39,10 @@
 
 6. If you have any questions, you can open **issue** .
 
+# Result
+
+
+
 # Understand
 
 可以看看 **reportWord.docx** 以及[心得](https://zong4.github.io/2022/06/01/SeparateBackground/)。
