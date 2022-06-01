@@ -41,7 +41,7 @@
 
 # Result
 
-This only use 2000 images to train.
+This only use **2000 images** to train.
 
 ![](result.png)
 
