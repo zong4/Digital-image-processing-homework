@@ -17,13 +17,13 @@
 
 2. 将[数据集](https://pan.baidu.com/union/challenge/dataset?competition_id=3&code=1715396826)下载至 **dataset_path** 并解压。
 
-先运行 **train.py** ，再运行 **test.py** 。
+3. 先运行 **train.py** ，再运行 **test.py** 。
 
-保险起见，可以先去 **./py_path/dataset.py** 修改相关路径。
+4. 保险起见，可以先去 **./py_path/dataset.py** 修改相关路径。
 
-同时为了获得更好的效果，可以调用 **GPU** 训练，以及在 **config.py** 中增加训练图片的数量（也可以使用自己的）。
+5. 同时为了获得更好的效果，可以调用 **GPU** 训练，以及在 **config.py** 中增加训练图片的数量（也可以使用自己的）。
 
-如果有任何问题，可以发起 **issue** 。
+6. 如果有任何问题，可以发起 **issue** 。
 
 Download this folder.
 
