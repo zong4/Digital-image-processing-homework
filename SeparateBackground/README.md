@@ -41,6 +41,6 @@
 
 # Understand
 
-可以看看 **reportWord.docx** 。
+可以看看 **reportWord.docx** 以及 [心得](https://zong4.github.io/2022/06/01/SeparateBackground/)。
 
 You can read [this paper](https://arxiv.org/abs/2108.07009)。
