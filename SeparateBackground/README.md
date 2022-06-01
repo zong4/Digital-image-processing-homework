@@ -25,17 +25,17 @@
 
 6. 如果有任何问题，可以发起 **issue** 。
 
-Download this folder.
+1. Download this folder.
 
-Download [the dataset](https://pan.baidu.com/union/challenge/dataset?competition_id=3&code=1715396826) to **dataset_path** and unzip it.
+2. Download [the dataset](https://pan.baidu.com/union/challenge/dataset?competition_id=3&code=1715396826) to **dataset_path** and unzip it.
 
-Run **train.py** and then run **test.py**.
+3. Run **train.py** and then run **test.py**.
 
-To be on the safe side, modify the relevant path in **./py_path/dataset.py** firstly.
+4. To be on the safe side, modify the relevant path in **./py_path/dataset.py** firstly.
 
-Also, for better results, you can call the **GPU** training and increase the number of training images in **config.py** (or use your own).
+5. Also, for better results, you can call the **GPU** training and increase the number of training images in **config.py** (or use your own).
 
-If you have any questions, you can open **issue** .
+6. If you have any questions, you can open **issue** .
 
 # Understand
 
